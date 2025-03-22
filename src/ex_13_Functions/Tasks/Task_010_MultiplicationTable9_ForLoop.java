@@ -1,4 +1,4 @@
-package ex_10_ForLoop;
+package ex_13_Functions.Tasks;
 
 public class Task_010_MultiplicationTable9_ForLoop {
     public static void main(String[] args) {

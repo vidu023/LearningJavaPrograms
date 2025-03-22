@@ -3,7 +3,7 @@ package ex_11_While;
 import java.util.Random;
 import java.util.Scanner;
 
-public class Lab_While_GuessingGame {
+public class Lab125_While_GuessingGame {
     public static void main(String[] args) {
         // Guessing Game - Guess a number between 1 and 100
 
