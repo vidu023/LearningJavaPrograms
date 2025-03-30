@@ -6,6 +6,6 @@ public class Lab139_Strings_Interview {
         name = name.toUpperCase();
         System.out.println(name);
 
-        // uppercase is being printed  -> VIDYA
+        // Output - uppercase is being printed  -> VIDYA
     }
 }
