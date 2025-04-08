@@ -1,4 +1,4 @@
-package ex__18_OOPs_Constructor;
+package ex_18_OOPs_Constructor;
 
 public class Lab173_OOPs_DefaultConstructor {
     public static void main(String[] args) {

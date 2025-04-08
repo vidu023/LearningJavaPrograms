@@ -1,4 +1,4 @@
-package ex__18_OOPs_Constructor;
+package ex_18_OOPs_Constructor;
 
 public class Lab174_OOPs_ParameterizedConstructor {
     public static void main(String[] args) {

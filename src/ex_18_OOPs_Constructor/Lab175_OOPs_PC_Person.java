@@ -1,4 +1,4 @@
-package ex__18_OOPs_Constructor;
+package ex_18_OOPs_Constructor;
 
 public class Lab175_OOPs_PC_Person {
     public static void main(String[] args) {

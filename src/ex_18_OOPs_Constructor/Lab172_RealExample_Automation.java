@@ -1,8 +1,4 @@
-package ex__18_OOPs_Constructor;
-
-import org.w3c.dom.ls.LSOutput;
-
-import java.io.FileInputStream;
+package ex_18_OOPs_Constructor;
 
 public class Lab172_RealExample_Automation {
     public static void main(String[] args) {

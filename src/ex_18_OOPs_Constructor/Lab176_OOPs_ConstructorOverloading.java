@@ -1,4 +1,4 @@
-package ex__18_OOPs_Constructor;
+package ex_18_OOPs_Constructor;
 
 public class Lab176_OOPs_ConstructorOverloading {
     public static void main(String[] args) {
@@ -41,8 +41,8 @@ class People{
     // Behaviour
     void read(){
         // we cannot use variable 'name' directly instead use -> this.name
-        //System.out.println(this.name + "reads");
-        System.out.println(this.name);
+        System.out.println(this.name + " reads");
+        //System.out.println(this.name);
     }
 }
 
