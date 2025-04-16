@@ -1,6 +1,6 @@
-package ex_23_AccessModifiers.Criminal;
+package ex_22_OOPs_AccessModifiers.Criminal;
 
-import ex_23_AccessModifiers.Police.Lab189_AccessModifier_Cop;
+import ex_22_OOPs_AccessModifiers.Police.Lab189_AccessModifier_Cop;
 
 public class Lab189_AccessModifier_Thief {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package ex_21_Encapsulation;
+package ex_21_OOPs_Encapsulation;
 
 public class Lab187_EncapsulationEx {
     public static void main(String[] args) {

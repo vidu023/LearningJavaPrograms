@@ -1,4 +1,4 @@
-package ex_20_Polymorphism.Method_Overridding;
+package ex_20_OOPs_Polymorphism.Method_Overridding;
 
 public class Lab185_Method_OverRiding {
     public static void main(String[] args) {

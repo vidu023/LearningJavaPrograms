@@ -1,4 +1,4 @@
-package ex_20_Polymorphism.Method_Overloading;
+package ex_20_OOPs_Polymorphism.Method_Overloading;
 
 public class Lab183_Math_AdditionOperations {
     // Method Overloading

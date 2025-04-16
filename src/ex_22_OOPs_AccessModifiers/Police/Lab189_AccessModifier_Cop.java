@@ -1,4 +1,4 @@
-package ex_23_AccessModifiers.Police;
+package ex_22_OOPs_AccessModifiers.Police;
 
 public class Lab189_AccessModifier_Cop {
 

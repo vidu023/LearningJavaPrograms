@@ -1,6 +1,4 @@
-package ex_20_Polymorphism.Method_Overridding;
-
-import org.w3c.dom.ls.LSOutput;
+package ex_20_OOPs_Polymorphism.Method_Overridding;
 
 public class Lab186_MetOverR_OpenBrowser {
     public static void main(String[] args) {
