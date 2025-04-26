@@ -3,7 +3,7 @@ package ex_32_CollectionFramework_DSA.LIST;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Lab235_ArrayList {
+public class Lab236_ArrayList {
     public static void main(String[] args) {
         ArrayList arrayList = new ArrayList();
         arrayList.add("vidya");
