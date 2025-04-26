@@ -17,9 +17,19 @@ public class Lab214_ExceptionHandling {
             // & catch will print friendly message
         } catch (Exception e) {
             //throw new RuntimeException(e);
+            // Exception e takes the reference of the class object bucket
+            // it's a big bucket in which there are many exceptions
+
+            // here we know its Arithmetic exception
             System.out.println(e.getMessage()); //  / by zero -> this is the message
             // if there is problem in the code (try block) -> catch will be executed
         }
+
+        // Multiple catch is possible
+        // here it's not possible because Big Exception is used before
+       /* catch (ArithmeticException e){
+            System.out.println(e.getMessage());
+        }*/
         System.out.println(b);
     }
 
