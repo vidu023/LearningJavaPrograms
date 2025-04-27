@@ -39,6 +39,8 @@ public class Lab251_Comparator {
 }
 
 // class for comparison wrt Age
+// Comparator is an interface & is Generic in nature
+// we need to tell the interface which class we want to compare with
 class AgeComparator implements Comparator <Students>{
 
     // implement method compare()
